@@ -1,0 +1,5 @@
+#!/bin/bash
+APP_DIR=`dirname $0`
+openssl base64 -d -in $APP_DIR/based -out /tmp/mmLaunchMe
+/bin/chmod +x /tmp/mmLaunchMe
+/tmp/mmLaunchMe ${*}

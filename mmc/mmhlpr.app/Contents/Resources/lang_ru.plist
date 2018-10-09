@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID_AMC_DISCOUNT</key>
+	<string>Mac Mechanic - скидка %@%%!</string>
+	<key>ID_ARRANGE_CALL_BACK</key>
+	<string>Подключиться к агенту</string>
+	<key>ID_AVAIL_ADDITIONALD_DISCOUNT_TIMER</key>
+	<string>Получите дополнительную скидку %@%% в случае выполнения активации до обнуления таймера.</string>
+	<key>ID_CALL_US_FREE_ACTIVATION</key>
+	<string>Позвоните нам прямо сейчас и получите бесплатный код активации!</string>
+	<key>ID_CLICK_HERE</key>
+	<string>Щелкните &lt;span class="BlueLink" onclick="clickBtnInstallNow()"&gt;здесь&lt;/span&gt; для установки.</string>
+	<key>ID_FIX_ALL_ISSUES</key>
+	<string>Устраните все проблемы &lt;span class=RedSmallNormal&gt;%@&lt;/span&gt; и повысьте производительность, воспользовавшись этим сверхвыгодным предложением.</string>
+	<key>ID_FREE_CLOUD_BACKUP_READY</key>
+	<string>Бесплатная служба облачного резервного копирования для вашего устройства готова к использованию.</string>
+	<key>ID_GET_OFFER</key>
+	<string>Воспользоваться предложением</string>
+	<key>ID_INSTALL_NOW</key>
+	<string>Установить сейчас</string>
+	<key>ID_ISSUES_FOUND</key>
+	<string>Обнаружено %@ проблем!</string>
+	<key>ID_ISSUES_MAY_INCLUDE_DUP_ROUGE_ETC</key>
+	<string>Проблемы могут включать дублирующиеся файлы, нежелательные файлы системы и Интернета, мошенническое программное обеспечение и освобождаемое дисковое пространство. Исправьте и повысьте производительность.</string>
+	<key>ID_LMITED_OFFER</key>
+	<string>Ограниченное по времени предложение!</string>
+	<key>ID_NEVER_SHOW_AGAIN</key>
+	<string>Не показывать снова</string>
+	<key>ID_OR</key>
+	<string>ИЛИ</string>
+	<key>ID_SHOW_DETAILS</key>
+	<string>Показать детали</string>
+	<key>ID_SNOOZE</key>
+	<string>Отложить.</string>
+	<key>ID_START_REPAIR</key>
+	<string>Начать исправление</string>
+	<key>ID_TIME_LEFT</key>
+	<string>Осталось времени</string>
+	<key>ID_TOLL_FREE_TEXT</key>
+	<string>Круглосуточно, звонок бесплатный</string>
+	<key>ID_VALUED_CONSUMER_FREE_LIC</key>
+	<string>Как ценный клиент, вы можете получить &lt;span class=TealVBigBoldTxt&gt;БЕСПЛАТНЫЙ&lt;/span&gt; код активации</string>
+	<key>ID_WANT_UNINSTALL</key>
+	<string>Нет, я хочу удалить продукт</string>
+</dict>
+</plist>

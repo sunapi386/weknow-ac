@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>affiliateid</key>
+	<string></string>
+	<key>btnid</key>
+	<string>0</string>
+	<key>lpid</key>
+	<string>0</string>
+	<key>pxl</key>
+	<string>MBL79_MBL71_MBL46</string>
+	<key>utm_campaign</key>
+	<string>mblore</string>
+	<key>utm_content</key>
+	<string></string>
+	<key>utm_medium</key>
+	<string>mblore</string>
+	<key>utm_pubid</key>
+	<string>27389110730260728</string>
+	<key>utm_publisher</key>
+	<string>mblore</string>
+	<key>utm_source</key>
+	<string>mblore</string>
+	<key>utm_term</key>
+	<string></string>
+	<key>x-at</key>
+	<string></string>
+</dict>
+</plist>

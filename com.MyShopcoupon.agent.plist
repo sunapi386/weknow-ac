@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>app_dir</key>
+		<string>/Applications/MyShopcoupon</string>
+		<key>brand</key>
+		<string>MyShopcoupon</string>
+		<key>dt</key>
+		<string>1537566101</string>
+		<key>guid</key>
+		<string>27389110730260728</string>
+		<key>home</key>
+		<string>/Users/sophieyin</string>
+		<key>source</key>
+		<string>zp-1838</string>
+		<key>tracking_url</key>
+		<string>http://service.macinstallerinfo.com/tracking/cm_mac.php?clickid=27389110730260728&amp;</string>
+	</dict>
+	<key>KeepAlive</key>
+	<true/>
+	<key>Label</key>
+	<string>com.MyShopcoupon.agent</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Applications/MyShopcoupon/MyShopcoupon</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/dev/null</string>
+	<key>StandardOutPath</key>
+	<string>/dev/null</string>
+	<key>ThrottleInterval</key>
+	<integer>10</integer>
+</dict>
+</plist>

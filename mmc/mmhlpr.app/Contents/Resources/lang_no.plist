@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID_AMC_DISCOUNT</key>
+	<string>Mac Mechanic - %@%% rabatt!</string>
+	<key>ID_ARRANGE_CALL_BACK</key>
+	<string>Koble til en agent nå</string>
+	<key>ID_AVAIL_ADDITIONALD_DISCOUNT_TIMER</key>
+	<string>Benytt en ekstra %@%% rabatt hvis du aktiverer før tidtakeren når null.</string>
+	<key>ID_CALL_US_FREE_ACTIVATION</key>
+	<string>Ring oss og få din gratis aktiveringskode nå!</string>
+	<key>ID_CLICK_HERE</key>
+	<string>Klikk &lt;span class="BlueLink" onclick="clickBtnInstallNow()"&gt;her&lt;/span&gt; for å installere nå.</string>
+	<key>ID_FIX_ALL_ISSUES</key>
+	<string>Løs alle &lt;span class=RedSmallNormal&gt;%@-problemer&lt;/span&gt; og opplev en ytelsesforbedring med et supersparertilbud.</string>
+	<key>ID_FREE_CLOUD_BACKUP_READY</key>
+	<string>Fri sikkerhetskopiering til skyen er nå klar for enheten din.</string>
+	<key>ID_GET_OFFER</key>
+	<string>Hent tilbud</string>
+	<key>ID_INSTALL_NOW</key>
+	<string>Installer nå</string>
+	<key>ID_ISSUES_FOUND</key>
+	<string>%@ problemer oppdaget!</string>
+	<key>ID_ISSUES_MAY_INCLUDE_DUP_ROUGE_ETC</key>
+	<string>Problemer kan omfatte duplikatfiler, system- og Internett-søppel, problematisk programvare og gjenvinnbar diskplass. Fiks og opplev bedre ytelse.</string>
+	<key>ID_LMITED_OFFER</key>
+	<string>Tidsbegrenset tilbud!</string>
+	<key>ID_NEVER_SHOW_AGAIN</key>
+	<string>Aldri vis igjen</string>
+	<key>ID_OR</key>
+	<string>ELLER</string>
+	<key>ID_SHOW_DETAILS</key>
+	<string>Vis detaljer</string>
+	<key>ID_SNOOZE</key>
+	<string>Slumre...</string>
+	<key>ID_START_REPAIR</key>
+	<string>Start reparasjon</string>
+	<key>ID_TIME_LEFT</key>
+	<string>Gjenstående tid</string>
+	<key>ID_TOLL_FREE_TEXT</key>
+	<string>Døgnåpent gratisnummer</string>
+	<key>ID_VALUED_CONSUMER_FREE_LIC</key>
+	<string>Som verdsatt kunde er du berettiget til en &lt;span class=TealVBigBoldTxt&gt;GRATIS&lt;/span&gt; aktiveringskode</string>
+	<key>ID_WANT_UNINSTALL</key>
+	<string>Nei, jeg vil avinstallere det</string>
+</dict>
+</plist>

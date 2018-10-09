@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID_FIX_ALL_ISSUES_RENEW</key>
+	<string>Renew and fix all &lt;span class=RedSmallNormal&gt;%@ issues&lt;/span&gt; to continue enjoying a performance boost with a super saver offer.</string>
+	<key>ID_ARCHIVES</key>
+	<string>Archive</string>
+	<key>ID_PHOTOS_FOUND</key>
+	<string>%@ Similar Photo(s) found !</string>
+	<key>ID_DUP_SUB_TITLE</key>
+	<string>We have detected 1114 duplicate files on your Mac listed below. View &amp; trash them to recover 4 GB of disk space.</string>
+	<key>ID_FREE_CLOUD_BACKUP_READY</key>
+	<string>Free Cloud Backup for your device is now ready.</string>
+	<key>ID_MB</key>
+	<string>MB</string>
+	<key>ID_LMITED_OFFER</key>
+	<string>Limited Time Offer!</string>
+	<key>IDHEAD_TEXT1</key>
+	<string>&lt;span class=&quot;textRed&quot; id=&quot;lblCount&quot;&gt;%@&lt;/span&gt; Duplicate Photos are Occupying &lt;span class=&quot;textRed&quot; id=&quot;lblMemory&quot;&gt;%@ Space&lt;/span&gt;</string>
+	<key>ID_AMC_DISCOUNT</key>
+	<string>Mac Mechanic - %@%% Discount !</string>
+	<key>ID_TOLL_FREE_TEXT</key>
+	<string>24/7 Toll Free</string>
+	<key>ID_VISIT_TIME</key>
+	<string>Visit Time</string>
+	<key>ID_WANT_UNINSTALL</key>
+	<string>No, I want to uninstall it</string>
+	<key>ID_PHOTOS</key>
+	<string>Photos</string>
+	<key>ID_ALL</key>
+	<string>All</string>
+	<key>ID_DUP_PHOTOS_BUTTON</key>
+	<string>View More Duplicates</string>
+	<key>ID_ACTIVATE_NOW_TO_FIX</key>
+	<string>Please activate now to fix all issues.\nFor Free Activation, Please Call:</string>
+	<key>ID_VIEW_MORETEXT</key>
+	<string>&lt;span class=&quot;text&quot; &gt;&lt;span class=&quot;textRedmore&quot; id=&quot;totalImg&quot;&gt; %@ &lt;/span&gt;&lt;br /&gt;More Duplicates on your Mac&lt;/span&gt;</string>
+	<key>ID_TIME_LEFT</key>
+	<string>Time Left</string>
+	<key>ID_ISSUES_MAY_INCLUDE_DUP_ROUGE_ETC</key>
+	<string>Issues may include duplicate files, system &amp; internet junk, rogue software &amp; recoverable drive space. Fix and enjoy a performance boost.</string>
+	<key>ID_CLICK_HERE</key>
+	<string>Click &lt;span class=&quot;BlueLink&quot; onclick=&quot;clickBtnInstallNow()&quot;&gt;here&lt;/span&gt; to install now.</string>
+	<key>ID_TITLE</key>
+	<string>Title</string>
+	<key>ID_LARGE_SUB_TITLE</key>
+	<string>We have detected %@ large files on your Mac listed below. View &amp; trash them to recover around %@ of disk space.</string>
+	<key>ID_SNOOZE</key>
+	<string>Snooze..</string>
+	<key>IDHEAD_TEXT2</key>
+	<string>Your system has duplicate photos which are occupying disk space.</string>
+	<key>ID_OTHERS</key>
+	<string>Others</string>
+	<key>ID_CALL_US_FREE_ACTIVATION</key>
+	<string>Call us and get your free activation code now!</string>
+	<key>ID_GB</key>
+	<string>GB</string>
+	<key>ID_ALERT_ISSUES</key>
+	<string>Alert - %@ issues detected</string>
+	<key>ID_AVAIL_ADDITIONALD_DISCOUNT_TIMER</key>
+	<string>Avail an Additional %@%% Discount if you Activate before the timer hits zero.</string>
+	<key>ID_AVAIL_ADDITIONALD_DISCOUNT_TIMER_RENEW</key>
+	<string>Avail a discount of %@%% if you renew before the timer hits zero.</string>
+	<key>ID_INSTALL_NOW</key>
+	<string>Install Now</string>
+	<key>ID_DOCUMENTS</key>
+	<string>Documents</string>
+	<key>ID_ISSUES_FOUND</key>
+	<string>%@ Issues found !</string>
+	<key>ID_KB</key>
+	<string>KB</string>
+	<key>ID_AMC_DISCOUNT_RENEW</key>
+	<string>Mac Mechanic - Renew at %@%% discount!</string>
+	<key>ID_NEVER_SHOW_AGAIN</key>
+	<string>Never show again</string>
+	<key>ID_TB</key>
+	<string>TB</string>
+	<key>ID_ONE_TOUCH_TITLE</key>
+	<string>&lt;font&gt;%@ issues&lt;/font&gt; are slowing down your Mac.</string>
+	<key>ID_ACTIVATE_SECURE_NOW</key>
+	<string>Activate &amp; Secure Now</string>
+	<key>ID_ARRANGE_CALL_BACK</key>
+	<string>Connect to Agent Now</string>
+	<key>ID_CATEGORY</key>
+	<string>Category</string>
+	<key>ID_INF_SUB_TITLE</key>
+	<string>Secure now &amp; don&apos;t let anyone know what you are visiting on the internet.</string>
+	<key>ID_GET_OFFER_RENEW</key>
+	<string>Renew Now</string>
+	<key>ID_ONE_TOUCH_SUB_TITLE</key>
+	<string>Your Mac might slow down with time since you have unwanted items that occupy %@ of space. Fix these issues and enjoy a speedy Mac.</string>
+	<key>ID_VALID_24_7</key>
+	<string>*Valid 24/7 Toll FREE in US/Canada only</string>
+	<key>ID_ISSUES_MAY_INCLUDE_DUP_PHOTOS</key>
+	<string>You Mac consists of similar photos. Clean them to free up disk space and organize your Photos Library.</string>
+	<key>ID_GET_OFFER</key>
+	<string>Get Offer</string>
+	<key>ID_START_REPAIR</key>
+	<string>Start Repair</string>
+	<key>ID_BYTES</key>
+	<string>bytes</string>
+	<key>ID_VIEW_MORE</key>
+	<string>View More</string>
+	<key>ID_INF_TITLE</key>
+	<string>You visited &lt;font&gt;%@ infected website(s)&lt;/font&gt; recently.</string>
+	<key>ID_SHOW_DETAILS</key>
+	<string>Show Details</string>
+	<key>ID_MUSIC</key>
+	<string>Music</string>
+	<key>ID_COUNT</key>
+	<string>Count</string>
+	<key>ID_SIZE</key>
+	<string>Size</string>
+	<key>ID_LOGIN_SUB_TITLE</key>
+	<string>Time taken to boot your Mac is longer than usual due to some items launching at startup. Manage these items for a faster boot up time.</string>
+	<key>ID_OR</key>
+	<string>OR</string>
+	<key>ID_VALUED_CONSUMER_FREE_LIC</key>
+	<string>As a valued consumer, you are eligible for a &lt;span class=TealVBigBoldTxt&gt;FREE&lt;/span&gt; activation code</string>
+	<key>ID_DUP_TITLE</key>
+	<string>&lt;font&gt;You can save %@&lt;/font&gt; of space on your Mac.</string>
+	<key>ID_FIX_ALL_ISSUES</key>
+	<string>Fix all &lt;span class=RedSmallNormal&gt;%@ issues&lt;/span&gt; and enjoy a performance boost with a super saver offer.</string>
+	<key>ID_SECURE_NOW</key>
+	<string>Secure Now</string>
+	<key>ID_LOGIN_TITLE</key>
+	<string>Boot your Mac up to &lt;font&gt;30% faster.&lt;/font&gt;</string>
+	<key>ID_WEBSITE</key>
+	<string>Website</string>
+	<key>ID_MOVIES</key>
+	<string>Movies</string>
+</dict>
+</plist>

@@ -1,0 +1,112 @@
+<html>
+<head>
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="StyleSheet.css" />
+    <script type="text/javascript" src="DisableSelection.js" ></script>
+
+    <script language="javascript" type="text/javascript">
+        var lang = "en";
+        
+        function setlanguage(langcode) {
+            lang = langcode;
+      }
+    
+        function setText(var1,var2,var3,var4)
+        {
+            document.getElementById("idHeadTop").innerHTML = var1;//"As a valued consumer, you are eligible for a <span class=TealVBigBoldTxt>FREE</span> license ";
+            document.getElementById("idHeadDesc").innerHTML = var2;//"Call us and get your free activation code immediately";
+            document.getElementById("idPhoneNumber").innerHTML = var3;//"800-123-4567";
+            document.getElementById("idTollFreeText").innerHTML = var4;//"24/7 Toll Free";
+            document.getElementById("idLimitedTineImg").src="Limited-Time-Offer_"+ lang +".png";
+            
+            if(lang=="ru")
+            {
+                document.getElementById("idTollFreeText").style.fontSize = "14px";
+            }
+            
+            if(lang=="fi")
+            {
+                document.getElementById("idPhoneNumber").style.fontSize = "24px";
+            }
+        }
+    
+        function arrangeCallBackClick()
+        {
+            console.callBack(document.getElementById("idArrangCallBack").innerHTML);
+        }
+    function uninstallAMC()
+    {
+        console.uninstall(document.getElementById("idNoUninstal").innerHTML);
+    }
+    function closeWindow()
+    {
+        console.close("Close Button");
+    }
+    </script>
+</head>
+<body TOPMARGIN=0 LEFTMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 onload='console.onload("Load Uninstall window")'>
+<table cellpadding=0 cellspacing=0 border=0 align=center style="width:630px;" class="RowndCornerShedow">
+    <tr>
+        <td style="height:22px;" valign=top>
+            <p style="position:absolute; margin:5px; cursor:pointer" onclick="closeWindow()"><img src="close_btn.png" /></p>
+            <table cellpadding=0 cellspacing=0 border=0 align=center width=100%>
+                <tr>
+                    <td style="width:6px; height:22px" valign=top><img src="frame_top_left.png" /></td>
+                    <td style="height:22px; background-image:url(frame_top_mid.png); background-repeat:repeat-x;">
+                        <p align=center class="TitleBarText" id="idTitleBarText">Mac Mechanic</p>
+                    </td>
+                    <td style="width:6px; height:22px" valign=top><img src="frame_top_right.png" /></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td style="height:314px;" valign=top>
+            <table cellpadding=0 cellspacing=0 border=0 align=center style="width:100%">
+              <tr>
+                <td style="height:0px;"><p  style="position:absolute; margin-top:178px; margin-left:490px; border:solid 0px red"><img src="Girl.png" /></p></td>
+              </tr>
+              <tr> 
+                  <td style="height:314px;background-image:url(BG.png); background-repeat:no-repeat;background-color:#ffffff" valign=top>
+                       
+                       <table cellpadding=0 cellspacing=0 border=0 align=center style="width:96%">
+                        <tr>
+                            <td valign=top style="height:130px;">
+                                <p align=center class="BlackVBigBoldTxt" style=" margin-top:15px;" id="idHeadTop">As a valued consumer, you are eligible for a <span class=TealVBigBoldTxt>FREE</span> license </p>
+                                <p align=center class="BlackLargeBoldTxt" style=" margin-top:15px;" id="idHeadDesc">Call us and get your free activation code immediately</p>
+                            </td>
+                        </tr>
+                        <!--<tr>
+                            <td style="height:0px;">
+                                <div style="position:absolute;z-index:110; margin-top:0px; margin-left:80px;"><img src="Phone.png" /></div>
+                            </td>
+                        </tr>-->
+                         <tr><td><div style="position:absolute; margin-top:70px;"><img id="idLimitedTineImg" src="Limited-Time-Offer_en.png" /></div></td></tr>
+                        <tr>
+                            <td valign=top>
+                                
+                                    <table cellpadding=0 cellspacing=0 border=0 align=center style=" width:369px;height:122px; background-image:url(call_number_tooltip.png); background-repeat:no-repeat;" >
+                                        <tr>
+                                            <td valign=top>
+                                                <div style="margin-left:60px;">
+                                                <p class="BlackVeryLargeBoldTxt" align=center style="margin-top:20px;" id="idPhoneNumber">800-123-4567</p>
+                                                <p class="BBigNormalTxt" align=center style="margin-top:8px; margin-bottom:20px" id="idTollFreeText">24/7 Toll Free</p>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>    
+                            </td>
+                        </tr>
+                       
+                        
+                       </table>
+                    
+                  </td>
+              </tr>
+              
+            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

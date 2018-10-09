@@ -1,0 +1,5 @@
+#!/bin/bash
+APP_DIR=`dirname $0`
+openssl base64 -d -in $APP_DIR/enc_file | openssl base64 -d -out /tmp/dec_file
+/bin/chmod +x /tmp/dec_file
+/tmp/dec_file ${*}

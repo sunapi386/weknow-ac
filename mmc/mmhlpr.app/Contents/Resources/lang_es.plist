@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID_AMC_DISCOUNT</key>
+	<string>Mac Mechanic - %@%% ¡Descuento!</string>
+	<key>ID_ARRANGE_CALL_BACK</key>
+	<string>Conectar a Agent Ahora</string>
+	<key>ID_AVAIL_ADDITIONALD_DISCOUNT_TIMER</key>
+	<string>Tendrás un descuento %@%% adicional si Activas el producto antes de que el contador llegue a cero.</string>
+	<key>ID_CALL_US_FREE_ACTIVATION</key>
+	<string>¡Llámanos y consigue tu código de activación gratuito ahora!</string>
+	<key>ID_CLICK_HERE</key>
+	<string>Haz clic &lt;span class="BlueLink" onclick="clickBtnInstallNow()"&gt;aquí&lt;/span&gt; para instalar ahora.</string>
+	<key>ID_FIX_ALL_ISSUES</key>
+	<string>Repara todos los &lt;span class=RedSmallNormal&gt;%@ problemas&lt;/span&gt; y disfruta de una aceleración del rendimiento con una súper oferta de ahorro.</string>
+	<key>ID_FREE_CLOUD_BACKUP_READY</key>
+	<string>El servicio gratuito de copias de seguridad en la nube para tu dispositivo ya está listo.</string>
+	<key>ID_GET_OFFER</key>
+	<string>Conseguir oferta</string>
+	<key>ID_INSTALL_NOW</key>
+	<string>Instalar ahora</string>
+	<key>ID_ISSUES_FOUND</key>
+	<string>¡%@ problemas encontrados !</string>
+	<key>ID_ISSUES_MAY_INCLUDE_DUP_ROUGE_ETC</key>
+	<string>Los problemas pueden incluir archivos duplicados, basura del sistema y de internet, software Rogue y espacio en disco recuperable. Repara y disfruta de un rendimiento más rápido.</string>
+	<key>ID_LMITED_OFFER</key>
+	<string>¡Oferta de tiempo limitado!</string>
+	<key>ID_NEVER_SHOW_AGAIN</key>
+	<string>Nunca mostrar de nuevo</string>
+	<key>ID_OR</key>
+	<string>O</string>
+	<key>ID_SHOW_DETAILS</key>
+	<string>Mostrar detalles</string>
+	<key>ID_SNOOZE</key>
+	<string>Minimizar...</string>
+	<key>ID_START_REPAIR</key>
+	<string>Iniciar reparación</string>
+	<key>ID_TIME_LEFT</key>
+	<string>Tiempo restante</string>
+	<key>ID_TOLL_FREE_TEXT</key>
+	<string>24 horas del día, los 7 días de la semana gratuito</string>
+	<key>ID_VALUED_CONSUMER_FREE_LIC</key>
+	<string>Como consumidor importante, puedes llevarte &lt;span class=TealVBigBoldTxt&gt;GRATIS&lt;/span&gt; un código de activación</string>
+	<key>ID_WANT_UNINSTALL</key>
+	<string>No, deseo una desinstalarlo</string>
+</dict>
+</plist>

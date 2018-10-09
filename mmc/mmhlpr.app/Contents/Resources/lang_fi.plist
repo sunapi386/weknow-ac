@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID_AMC_DISCOUNT</key>
+	<string>Mac Mechanic - %@%% Alennus!</string>
+	<key>ID_ARRANGE_CALL_BACK</key>
+	<string>Yhdistä edustajalle nyt</string>
+	<key>ID_AVAIL_ADDITIONALD_DISCOUNT_TIMER</key>
+	<string>Saat lisäalennuksen,%@%% jos aktivoit ennen kuin ajastimen aika on loppu.</string>
+	<key>ID_CALL_US_FREE_ACTIVATION</key>
+	<string>Soita meille, ja saat ilmaisen aktivointikoodisi heti!</string>
+	<key>ID_CLICK_HERE</key>
+	<string>Klikkaa &lt;span class="BlueLink" onclick="clickBtnInstallNow()"&gt;tästä&lt;/span&gt; asentaaksesi nyt.</string>
+	<key>ID_FIX_ALL_ISSUES</key>
+	<string>Korjaa kaikki &lt;span class=RedSmallNormal&gt;%@ ongelmat,&lt;/span&gt; ja nauti paremmasta suorituskyvystä erittäin edullisella tarjouksellamme.</string>
+	<key>ID_FREE_CLOUD_BACKUP_READY</key>
+	<string>Ilmainen pilvivarmuuskopiopalvelu on nyt valmis.</string>
+	<key>ID_GET_OFFER</key>
+	<string>Saa tarjous</string>
+	<key>ID_INSTALL_NOW</key>
+	<string>Asenna heti</string>
+	<key>ID_ISSUES_FOUND</key>
+	<string>%@ ongelmaa löytynyt!</string>
+	<key>ID_ISSUES_MAY_INCLUDE_DUP_ROUGE_ETC</key>
+	<string>Ongelmat saattavat olla kaksoistiedostoja, järjestelmän ja internetin roskia, haittaohjelmia ja turhaan varattua levytilaa. Korjaa, ja nauti paremmasta suorituskyvystä.</string>
+	<key>ID_LMITED_OFFER</key>
+	<string>Tarjous voimassa rajoitetun ajan!</string>
+	<key>ID_NEVER_SHOW_AGAIN</key>
+	<string>Älä näytä uudelleen</string>
+	<key>ID_OR</key>
+	<string>TAI</string>
+	<key>ID_SHOW_DETAILS</key>
+	<string>Näytä yksityiskohdat</string>
+	<key>ID_SNOOZE</key>
+	<string>Torkahda...</string>
+	<key>ID_START_REPAIR</key>
+	<string>Aloita korjaus</string>
+	<key>ID_TIME_LEFT</key>
+	<string>Aikaa jäljellä</string>
+	<key>ID_TOLL_FREE_TEXT</key>
+	<string>24/7-tuki ilmaiseksi</string>
+	<key>ID_VALUED_CONSUMER_FREE_LIC</key>
+	<string>Arvostettuna asiakkaanamme olet oikeutettu saamaan &lt;span class=TealVBigBoldTxt&gt;ILMAISEN&lt;/span&gt; aktivointikoodin</string>
+	<key>ID_WANT_UNINSTALL</key>
+	<string>Ei, haluan poistaa asennuksen</string>
+</dict>
+</plist>

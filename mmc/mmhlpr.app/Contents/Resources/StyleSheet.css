@@ -1,0 +1,41 @@
+﻿*{font-family:Lucida Grande;}
+p,td,tr{ margin:0px; padding:0px;}
+img{ border:0px;}
+table{ border-collapse:collapse}
+
+.BlackSmallNormal{font-size:11px; color:#000000;}
+.RedSmallNormal{font-size:11px; color:#fb0000;}
+.WSmallNormal{font-size:11px; color:#FFFFFF;}
+.WSmallBold{font-size:11px; color:#FFFFFF; font-weight:bold}
+.GraySmallNormal{font-size:11px; color:#939395;}
+.WhiteNormalText{font-size:13px; color:#FFFFFF;}
+.BlackBoldMid{font-size:14px; color:#000000; font-weight:bold}
+.RedBoldMid{font-size:14px; color:#FF0000; font-weight:bold}
+.BBigBoldTxt{font-size:23px; color:#000000; font-weight:bold}
+.BBigNormalTxt{font-size:16px; color:#000000;}
+.BlackVBigBoldTxt{font-size:16px; color:#000000;font-weight:bold}
+.BlackLargeBoldTxt{font-size:20px; color:#000000;font-weight:bold}
+.BlackVeryLargeBoldTxt{font-size:28px; color:#000000;font-weight:bold}
+.TealVBigBoldTxt{font-size:20px; color:#246806;font-weight:bold}
+.WBtnBoldNagTxt{font-size:20px; color:#FFFFFF;font-weight:bold; cursor:pointer; margin: 10px 10px 0px 10px;}
+.BlueLinkTxt{font-size:13px; color:#0000e1; cursor:pointer; text-decoration:underline}
+
+.BlackNormalText{font-size:13px; color:#000000;}
+.BlackBoldText{font-size:13px; color:#000000;font-weight:bold}
+.TitleBarText{font-size:13px; color:#676767;}
+.RedNormalText{font-size:13px; color:#fb0000;}
+.LightBlackBoldText{font-size:13px; color:#3d3d3d;font-weight:bold}
+.LightGrayBoldText{font-size:13px; color:#7a7a7a;font-weight:bold}
+
+.RowndCornerShedow
+{   -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #ededed;
+    -webkit-box-shadow: 0 15px 38px 22px rgba(0,0,0,.5);
+    -moz-box-shadow: 0 15px 38px 22px rgba(0,0,0,.5);
+    box-shadow: 0 15px 38px 22px rgba(0,0,0,.5);
+    border: solid 0px rgba(0,0,0,.5);
+}
+
+.BlackBigBoldItalic{font-size:18px; color:#000000;font-weight:bold; font-style:italic;}

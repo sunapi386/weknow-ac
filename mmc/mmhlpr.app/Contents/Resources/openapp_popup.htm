@@ -1,0 +1,124 @@
+<html>
+<head>
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        .BtnBoldText{font-size:16px; color:#FFFFFF;font-weight:bold; cursor:pointer; margin: 0px 45px 0px 45px;}
+    </style>
+    <script language=javascript type="text/javascript">
+        var lang = "en";
+        
+        function setlanguage(langcode) {
+            lang = langcode;
+            
+        }
+
+        function setText(var1, var2,var3, var4, var5) {
+
+            document.getElementById("idIssuesText").innerHTML = var1;
+            document.getElementById("idIssuesDesc").innerHTML = var2;
+            document.getElementById("idopenapp").value = var3;
+            document.getElementById("idTdHeight").style.height = var4 + "px";
+            document.getElementById("idChkboxValue").innerHTML = var5;
+        }
+        function clickBtnRepair(){
+            console.repair(document.getElementById("idopenapp").value);
+        }
+
+    function clickBtnSnooze(){
+        console.snooze(document.getElementById("idSelect").selectedIndex + document.getElementById("idSelect").value);
+    }
+     function closeWindow(){
+            console.close("Close Nag delayed app open");
+        }
+
+        function clickOnBody() {
+            console.onBody("Click on Body issues nag");
+        }
+    function onLoadWindow()
+    {
+        console.onload("Load Issues window");
+    }
+    function openSelfApp()
+    {
+        console.openapp("Open app");
+    }
+    </script>
+	<script language="javascript" type="text/javascript">
+     
+    function showHideCheckbox(sShow) {
+        alert(document.getElementById("idDontShowChkbox").checked);
+        if (sShow == "0") {
+            document.getElementById("idTblCheckBox").style.visibility = "hidden";
+            document.getElementById("idTblCheckBox").style.display = "none";
+
+        }
+        else {
+            document.getElementById("idTblCheckBox").style.visibility = "visible";
+            document.getElementById("idTblCheckBox").style.display = "block";
+        }
+    }
+
+    function CheckboxClicked() {
+        if (document.getElementById("idDontShowChkbox").checked) {
+            console.dontshowwindow("1");
+        }
+        else {
+            console.dontshowwindow("0");
+        }
+    }
+</script>
+</head>
+<body TOPMARGIN=0 LEFTMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0 onload="onLoadWindow()">
+<table cellpadding=0 cellspacing=0 border=0 align=center class="RowndCornerShedow">
+    <tr>
+        <td style="width:520px;height:103px;" id="idTdHeight"  valign=top>
+            <table cellpadding=0 cellspacing=0 border=0 align=center width=100%>
+                <tr>
+                    <td style="height:17px;" valign=top>
+                        <p style="position:absolute; margin:5px; cursor:pointer" onclick="closeWindow()"><img src="close_btn.png" /></p>
+                       
+                    </td>
+                </tr>                
+                <tr>
+                    <td valign=top>
+                        <table cellpadding=0 cellspacing=0 border=0 align=center width=100%>
+							<tr><td rowspan=2 style="width:87px;" align="center"><img src="alert_logo.png" style=" margin-top:8px" /></td>
+								<td colspan=4><p class="BlackBoldMid" style=" margin-top:3px; margin-bottom:3px;" id="idIssuesText">1154 issues found !</p><td>
+							 </tr>
+                            <tr>
+                                
+                                <td style="padding-right:10px;" valign=top">
+
+                                    
+                                    <p class="BlackSmallNormal"  id="idIssuesDesc">Issues may include duplicate files, system & internet junk, rouge software & recoverable drive space. Fix and enjoy a performace boost. </p>
+                                </td>
+                                <td style="width:10px;">
+                                </td>
+                                <td valign=top>
+                                <input type=button id="idopenapp"  onclick="openSelfApp()" value="Start Repair" style="padding-left:5px; padding-right:5px; height:25px; font-size:11px; color:#000000; margin-top:20px;" />
+                                    
+                                </td>
+                                <td style="width:10px;">
+                                    
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>  
+				<tr><td>
+						<table cellpadding=0 cellspacing=0 border=0 id="idTblCheckBox" style="margin-top:5px; margin-bottom:5px; margin-left:6px;">
+								<tr>
+									<td style="width:15px;"><input type="checkbox" value="0" id="idDontShowChkbox"  onclick="CheckboxClicked()" /></td>
+									<td><p class="BlackSmallNormal" id="idChkboxValue" onclick="CheckboxClicked()" style="cursor:pointer">Don't show this offer again.</p></td>
+								</tr>
+							</table>
+					</td>
+                </tr>  
+            </table>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

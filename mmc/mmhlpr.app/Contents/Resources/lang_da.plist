@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID_AMC_DISCOUNT</key>
+	<string>Mac Mechanic -%@%% Rabat!</string>
+	<key>ID_ARRANGE_CALL_BACK</key>
+	<string>Kom i kontakt med vores kundeservice nu</string>
+	<key>ID_AVAIL_ADDITIONALD_DISCOUNT_TIMER</key>
+	<string>En ekstra rabat er %@%% tilgængelig, hvis du aktiverer koden, før timeren rammer nul.</string>
+	<key>ID_CALL_US_FREE_ACTIVATION</key>
+	<string>Ring til os og få din gratis aktiveringskode nu!</string>
+	<key>ID_CLICK_HERE</key>
+	<string>Klik &lt;span class=BlueLink onclick=clickBtnInstallNow()&gt;her&lt;/span&gt; for at installere nu.</string>
+	<key>ID_FIX_ALL_ISSUES</key>
+	<string>Udbedr alle &lt;span class=RedSmallNormal&gt;%@ problemer&lt;/span&gt; og nyd en ydeevneoptimering med det fantastiske tilbud.</string>
+	<key>ID_FREE_CLOUD_BACKUP_READY</key>
+	<string>Gratis Cloud-sikkerhedskopi er nu tilgængelig til din enhed.</string>
+	<key>ID_GET_OFFER</key>
+	<string>Få tilbud</string>
+	<key>ID_INSTALL_NOW</key>
+	<string>Installer nu</string>
+	<key>ID_ISSUES_FOUND</key>
+	<string>%@ Problemer fundet!</string>
+	<key>ID_ISSUES_MAY_INCLUDE_DUP_ROUGE_ETC</key>
+	<string>Problemer kan være identiske filer, system- og internetskrammelfiler, rogue-software og gendannelig diskplads. Udbedr problemerne og nyd en ydeevneoptimering.</string>
+	<key>ID_LMITED_OFFER</key>
+	<string>Tidsbegrænset tilbud!</string>
+	<key>ID_NEVER_SHOW_AGAIN</key>
+	<string>Vis aldrig igen</string>
+	<key>ID_OR</key>
+	<string>ELLER</string>
+	<key>ID_SHOW_DETAILS</key>
+	<string>Vis detaljer</string>
+	<key>ID_SNOOZE</key>
+	<string>Snooze...</string>
+	<key>ID_START_REPAIR</key>
+	<string>Start reparation</string>
+	<key>ID_TIME_LEFT</key>
+	<string>Resterende tid</string>
+	<key>ID_TOLL_FREE_TEXT</key>
+	<string>gratisnummer 24/7</string>
+	<key>ID_VALUED_CONSUMER_FREE_LIC</key>
+	<string>Som værdsat kunde har du ret til en &lt;span class=TealVBigBoldTxt&gt;GRATIS&lt;/span&gt; aktiveringskode</string>
+	<key>ID_WANT_UNINSTALL</key>
+	<string>Nej, jeg ønsker at afinstallere det</string>
+</dict>
+</plist>
